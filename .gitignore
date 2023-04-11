@@ -1,12 +1,14 @@
-# Python files
 __pycache__/
 *.pyc
+
+# migrations
+alembic/versions/*
 
 # enviroment related
 .venv/
 *.env
 
-# Other files
+# auto
 .vscode/
 .idea/
 *.log
