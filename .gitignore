@@ -1,0 +1,12 @@
+# Python files
+__pycache__/
+*.pyc
+
+# enviroment related
+.venv/
+*.env
+
+# Other files
+.vscode/
+.idea/
+*.log
